@@ -1,0 +1,33 @@
+Q: What function would you use to render Python data to a JSON FIle?
+
+A: json.dump()
+
+
+Q: Which of the following would you use to read in a CSV file as a dictionary?
+
+A: csv.DictReader
+
+
+Q: Which of the following methods on a file object (called file_object) reads the contents of a file and returns it as a string?
+
+A: .read()
+
+
+Q: What does the with command do in Python?
+
+A: Creates a context-manager, which performs cleanup after exiting the adjacent indented block.
+
+
+Q: What different modes, passed as arguments to the open() function, are there for opening a file in Python?
+
+A: Read-mode('r', the default mode), Write-mode('w'), and Append-mode ('a')
+
+
+Q: Correct syntax for opening a file in Python with 'with'?
+
+A: with open('file.txt') as file_obj:
+
+
+Q: What method reads a single line from a file object variable called file_object?
+
+A: .readline()
