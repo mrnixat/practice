@@ -14,3 +14,5 @@ class Solution:
             hashTwo[c] += 1
 
         return hash == hashTwo
+
+        # return Counter(s) == Counter(t)
